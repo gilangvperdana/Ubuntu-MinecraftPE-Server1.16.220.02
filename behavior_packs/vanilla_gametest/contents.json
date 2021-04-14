@@ -1,0 +1,142 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": ".prettierrc.json"
+        },
+        {
+            "path": "pack_icon.png"
+        },
+        {
+            "path": "scripts/DebugTests.js"
+        },
+        {
+            "path": "scripts/Main.js"
+        },
+        {
+            "path": "scripts/MobTests.js"
+        },
+        {
+            "path": "scripts/APITests.js"
+        },
+        {
+            "path": "scripts/PathFindingTests.js"
+        },
+        {
+            "path": "scripts/MinecartTests.js"
+        },
+        {
+            "path": "scripts/DispenserTests.js"
+        },
+        {
+            "path": "scripts/DoorTests.js"
+        },
+        {
+            "path": "scripts/BlockTests.js"
+        },
+        {
+            "path": ".vscode/extensions.json"
+        },
+        {
+            "path": ".vscode/settings.json"
+        },
+        {
+            "path": "structures/PathFindingTests/veritcal_template.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_shears_mooshroom.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_shears_snowgolem.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_carpet_on_llama.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_fire.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_minecart.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_shears_sheep.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_charge_respawn_anchor.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_saddle_on_pig.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_horsearmor_on_horse.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_saddle_on_horse.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_water.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_arrow_trap.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_minecart_track.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_chest_on_llama.mcstructure"
+        },
+        {
+            "path": "structures/DispenserTests/dispenser_fire_crash.mcstructure"
+        },
+        {
+            "path": "structures/APITests/on_entity_created.mcstructure"
+        },
+        {
+            "path": "structures/MobTests/zombie_burn.mcstructure"
+        },
+        {
+            "path": "structures/MinecartTests/turn.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/concrete_solidifies_in_shallow_water.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/concrete_pops_off_waterlogged_chest.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/concrete_solidifies_in_deep_water.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/sand_fall_shulker.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/concrete_solidifies_next_to_water.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/explosion_drop_location.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/turtle_eggs_survive_xp.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/turtle_eggs_squish.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/sand_fall_boats.mcstructure"
+        },
+        {
+            "path": "structures/BlockTests/turtle_eggs_survive_item.mcstructure"
+        },
+        {
+            "path": "structures/DoorTests/four_villagers_one_door.mcstructure"
+        },
+        {
+            "path": "structures/DebugTests/always_succeed.mcstructure"
+        },
+        {
+            "path": "structures/DebugTests/always_fail.mcstructure"
+        }
+    ]
+}

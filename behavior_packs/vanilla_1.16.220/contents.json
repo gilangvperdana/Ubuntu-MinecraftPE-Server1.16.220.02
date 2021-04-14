@@ -1,0 +1,31 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "entities/chicken.json"
+        },
+        {
+            "path": "entities/cow.json"
+        },
+        {
+            "path": "entities/llama.json"
+        },
+        {
+            "path": "entities/pig.json"
+        },
+        {
+            "path": "entities/armor_stand.json"
+        },
+        {
+            "path": "entities/drowned.json"
+        },
+        {
+            "path": "loot_tables/entities/zombie_pigman.json"
+        },
+        {
+            "path": "loot_tables/entities/zombie.json"
+        }
+    ]
+}

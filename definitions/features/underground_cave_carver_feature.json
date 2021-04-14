@@ -1,0 +1,10 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:cave_carver_feature": {
+    "description": {
+      "identifier": "minecraft:underground_cave_carver_feature"
+    },
+    "fill_with": "minecraft:air",
+    "width_modifier": 0.0
+  }
+}

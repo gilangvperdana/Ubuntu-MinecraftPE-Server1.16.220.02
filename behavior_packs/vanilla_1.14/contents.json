@@ -1,0 +1,61 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "entities/wolf.json"
+        },
+        {
+            "path": "entities/parrot.json"
+        },
+        {
+            "path": "entities/polar_bear.json"
+        },
+        {
+            "path": "entities/dolphin.json"
+        },
+        {
+            "path": "entities/panda.json"
+        },
+        {
+            "path": "entities/turtle.json"
+        },
+        {
+            "path": "entities/ocelot.json"
+        },
+        {
+            "path": "entities/drowned.json"
+        },
+        {
+            "path": "entities/bee.json"
+        },
+        {
+            "path": "recipes/honey_bottle.json"
+        },
+        {
+            "path": "recipes/honey_bottle_to_sugar.json"
+        },
+        {
+            "path": "recipes/honey_block.json"
+        },
+        {
+            "path": "recipes/honeycomb_block.json"
+        },
+        {
+            "path": "recipes/beehive.json"
+        },
+        {
+            "path": "spawn_rules/pillager_patrol.json"
+        },
+        {
+            "path": "spawn_rules/bee.json"
+        },
+        {
+            "path": "items/honey_bottle.json"
+        },
+        {
+            "path": "items/honeycomb.json"
+        }
+    ]
+}
