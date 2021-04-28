@@ -10,7 +10,7 @@ $ ./start.sh
 
 ## FRESH INSTALLATION:
 
-$$ wget https://raw.githubusercontent.com/TheRemote/MinecraftBedrockServer/master/SetupMinecraft.sh
+$ wget https://raw.githubusercontent.com/TheRemote/MinecraftBedrockServer/master/SetupMinecraft.sh
 
 $ chmod +x SetupMinecraft.sh
 
